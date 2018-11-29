@@ -1,6 +1,6 @@
 
 
-# Defending a CNN
+# Attacking a CNN
 
 To start the tutorial you should download or clone this git repository https://github.com/podschwadt/aml_tutorial
 
