@@ -1,14 +1,10 @@
 from sklearn import svm
-import gzip
 import numpy as np
-import struct
 import os
 import matplotlib.pyplot as plt
 
 
 def exract_ones_and_zeroes( data, labels ):
-    # data_zeroes = data[ np.argwhere( labels == 0 ) ]
-    # data_ones = data[ np.argwhere( labels == 1 ) ]
     data_zeroes = data[ np.argwhere( labels == 0 ) ][ :200 ] - 1.0
     data_ones = data[ np.argwhere( labels == 1 ) ][ :200 ]
     x = np.vstack( (data_zeroes, data_ones) )

@@ -1,0 +1,10 @@
+name: aml
+dependencies:
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - keras
+  - tensorflow
+  - pip:
+    - adversarial-robustness-toolbox
+    - cleverhans
