@@ -4,7 +4,7 @@ dependencies:
   - numpy
   - matplotlib
   - tensorflow
-  - keras
   - pip:
+    - keras
     - adversarial-robustness-toolbox
     - cleverhans
