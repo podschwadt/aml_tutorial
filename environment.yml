@@ -3,8 +3,8 @@ dependencies:
   - scikit-learn
   - numpy
   - matplotlib
-  - keras
   - tensorflow
+  - keras
   - pip:
     - adversarial-robustness-toolbox
     - cleverhans
