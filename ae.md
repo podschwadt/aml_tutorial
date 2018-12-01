@@ -13,3 +13,5 @@ If you are using conda you can simply install the environment by runnning:
 The relevant files for this exercise are 
 
 [attack_cnn.ipynb](attack_cnn.ipynb) or if you don't have jupyter user [attack_cnn.py](attack_cnn.py)
+
+https://colab.research.google.com/drive/1RpQo0f4TXnOL5Hz6ZOgB63JoiXJ9mntV
