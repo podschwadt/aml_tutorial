@@ -1,6 +1,14 @@
 
 # Defending a CNN
 
+## Running it online
+
+The easiest way to run this code is to go [this](https://colab.research.google.com/drive/1tGvoArjJzev-F0X_8p97JCes3ozrVQAk) Google colab notebook.
+
+## Running it on your own machine
+
+If you want to run it on your own machine follow these instructions:
+
 To start the tutorial you should download or clone this git repository https://github.com/podschwadt/aml_tutorial
 
 The neseccary packages can be found in the `environment.yml`
