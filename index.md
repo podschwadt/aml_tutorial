@@ -1,9 +1,14 @@
-To start the tutorial you should download or clone this git repository [https://github.com/podschwadt/aml_tutorial]
-
-The neseccary packages can be found in the `environment.yml`
-
-If you are using conda you can simply install the environment by runnning:
-
-`conda env create -f environment.yml`
+# Adversarial Machine Learning Tutorial
 
 
+## ACSAC 2018
+
+We gave the tutorial at ACSAC 2018 in Puerto Rico. 
+You can find our slides here:
+- (PDF)[https://drive.google.com/file/d/13FjEGc_o4FRYH9gEdPlRrBz2cuBPoLhg/view?usp=sharing]
+- (Powerpoint)[https://drive.google.com/file/d/1yG-zE7YNit7S6_wUiBAiDZ0QABcZ5GAT/view?usp=sharing]
+
+For the example code:
+- (Evasion)[evasion.md]
+- (Adeversarial Examples)[ae.md]
+- (Defenses)[defenses.md]
